@@ -73,7 +73,8 @@ def q_learning(env,
 ![image](https://github.com/user-attachments/assets/fc27c032-83df-4af5-8015-b1ec6c04b772)
 
 ### Q_LEARNING
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/cbf76922-a2a5-483d-8606-4ee549bfa904)
+
 
 
 ## RESULT:
